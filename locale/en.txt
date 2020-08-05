@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 3
+
+## Media
+
+### Title
+album_ACD155A9_BECE_E8D1_41E0_F68E5B41B20E.label = Photo Album Entry 01
+album_ACD155A9_BECE_E8D1_41E0_F68E5B41B20E_0.label = Entry 01
+panorama_B4B8E209_BE42_6BD1_41E3_3D6E22119C52.label = Main Gate
+panorama_B7E006E0_BE42_A850_41C0_D1264E0C7DE2.label = Pigeon Nest
+panorama_B7E02006_BE42_A7D3_41E4_D2FC383B52E9.label = Kitchen Outside
+panorama_B7E03B7A_BE42_B830_41D2_3F453C19D368.label = Kitchen
+panorama_B7E24343_BE42_6851_41D8_7966A3D15868.label = Garden
